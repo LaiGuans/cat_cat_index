@@ -1,0 +1,41 @@
+
+.wrap{
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subheader{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+
+h1{
+    color:rgb(0, 0, 0);
+}
+
+.content{
+    color:black;
+    font-size: 15px;
+    text-align: left;
+}
+a:hover{
+    color: red;
+
+}    
+
+.footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+}
